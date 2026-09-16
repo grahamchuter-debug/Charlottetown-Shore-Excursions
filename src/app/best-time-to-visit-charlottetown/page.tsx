@@ -28,9 +28,9 @@ const faqs = [
 ];
 
 export const metadata: Metadata = pageMetadata({
-  title: "Best Time To Visit Charlottetown — Weather, Beaches & Lobster",
+  title: "Best Time to Visit Charlottetown on a Cruise — Seasons & PEI Weather",
   description:
-    "Month-by-month guide to visiting Charlottetown, Prince Edward Island — weather, wind, layers, beach season, lobster season, and cruise timing for passengers.",
+    "Best time to visit Charlottetown on a Canada & New England cruise — weather, beach season, lobster season, and how summer crowds affect Cavendish day trips.",
   path,
 });
 

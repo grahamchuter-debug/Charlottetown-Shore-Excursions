@@ -39,9 +39,9 @@ const faqs = [
 ];
 
 export const metadata: Metadata = pageMetadata({
-  title: "Charlottetown Cruise Port Guide — Prince Edward Island",
+  title: "Charlottetown Cruise Port Guide — Peake's Wharf & Port-Day Tips",
   description:
-    "Complete guide to the Charlottetown, Prince Edward Island cruise port — where ships dock, walking distances, taxis, weather, currency, and best excursions.",
+    "Charlottetown cruise port guide — Peake's Wharf and Confederation Landing docking, walkability downtown, taxis, weather, and how to plan a PEI port day.",
   path,
 });
 

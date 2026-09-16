@@ -6,10 +6,19 @@ export const GEO_LABEL = "Charlottetown, Prince Edward Island";
 
 export const HERO_IMAGE = "/images/charlottetown-hero.png";
 export const HERO_IMAGE_ALT =
-  "Red sandstone cliffs and white sand beach along the Prince Edward Island coast near Charlottetown";
+  "Prince Edward Island North Shore red sandstone coast near Cavendish — cliffs, beach grass, and Gulf of St. Lawrence shoreline";
+
+export const CONTACT_EMAIL = `hello@${SITE_URL.replace("https://", "")}`;
 
 export function absoluteUrl(path: string): string {
-  return `${SITE_URL}${path.startsWith("/") ? path : `/${path}`}`;
+  const raw = path.startsWith("/") ? path : `/${path}`;
+  // Asset / file URLs keep their extension; page URLs use trailing slash.
+  if (/\.[a-zA-Z0-9]{1,8}$/.test(raw)) {
+    return `${SITE_URL}${raw}`;
+  }
+  if (raw === "/") return `${SITE_URL}/`;
+  const normalized = raw.endsWith("/") ? raw : `${raw}/`;
+  return `${SITE_URL}${normalized}`;
 }
 
 export function pageTitle(title: string): string {

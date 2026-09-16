@@ -39,10 +39,10 @@ export const excursions: Excursion[] = [
   {
     slug: "anne-of-green-gables-tour",
     path: "/anne-of-green-gables-tour",
-    title: "Anne of Green Gables Tour — Prince Edward Island from Charlottetown",
+    title: "Anne of Green Gables Tour from Charlottetown Cruise Port",
     shortTitle: "Anne of Green Gables",
     summary:
-      "Green Gables Heritage Place, Lucy Maud Montgomery landscapes, and Cavendish countryside — the defining literary excursion from Charlottetown cruise port.",
+      "Organised Anne of Green Gables tour from Charlottetown cruise port — Green Gables Heritage Place in Cavendish (~40–50 min each way). Best with 6+ hours ashore; short port calls may not suit this itinerary.",
     duration: "4–5 hours (typical tour)",
     fitness: "Easy",
     distanceFromTerminal:
@@ -110,7 +110,7 @@ export const excursions: Excursion[] = [
     title: "Best of Prince Edward Island Tour from Charlottetown",
     shortTitle: "Best of PEI",
     summary:
-      "A curated island sampler — Green Gables, red cliffs, fishing villages, and coastal lookouts — for cruise passengers who want PEI's greatest hits in one day.",
+      "Full-day best-of-PEI sampler from Charlottetown — Green Gables, red cliffs, villages, and lookouts for passengers with ~8+ hours ashore (longer than a focused Anne or Cavendish loop).",
     duration: "6–7 hours",
     fitness: "Easy",
     distanceFromTerminal:
@@ -178,7 +178,7 @@ export const excursions: Excursion[] = [
     title: "Cavendish & North Shore Tour — Prince Edward Island",
     shortTitle: "Cavendish North Shore",
     summary:
-      "Dunes, red cliffs, Green Gables country, and Gulf beaches — the scenic north shore loop that defines PEI's coastal character from Charlottetown.",
+      "Cavendish north shore scenic loop from Charlottetown — red cliffs, dunes, Gulf beaches, and Green Gables country (coast and scenery focus, not a downtown walking tour).",
     duration: "5–6 hours",
     fitness: "Easy",
     distanceFromTerminal:

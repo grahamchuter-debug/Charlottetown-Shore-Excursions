@@ -28,9 +28,9 @@ const faqs = [
 ];
 
 export const metadata: Metadata = pageMetadata({
-  title: "One Day In Charlottetown From A Cruise Ship — Itinerary Guide",
+  title: "One Day in Charlottetown From a Cruise Ship — 4, 6 & 8 Hour Plans",
   description:
-    "Sample itineraries for 4, 6, and 8 hours ashore in Charlottetown, Prince Edward Island — walking, taxis, excursions, food, photography, and return-to-ship timing.",
+    "One day in Charlottetown from the cruise port — sample 4, 6, and 8 hour plans covering downtown walks, Cavendish / Green Gables timing, food, and return-to-ship buffers.",
   path,
 });
 

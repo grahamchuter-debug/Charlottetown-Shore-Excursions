@@ -33,9 +33,9 @@ const faqs = [
 ];
 
 export const metadata: Metadata = pageMetadata({
-  title: "Prince Edward Island Guide — Beaches, Cliffs & Lighthouses",
+  title: "Prince Edward Island Guide — Broader PEI Context From Charlottetown",
   description:
-    "Complete Prince Edward Island guide for cruise passengers — red cliffs, beaches, lighthouses, seafood, villages, national park, Anne of Green Gables, and scenic drives from Charlottetown.",
+    "Broader Prince Edward Island destination guide for cruise visitors — beaches, red cliffs, lighthouses, villages, and national park context beyond a single Cavendish or Anne tour.",
   path,
 });
 

@@ -6,9 +6,9 @@ import { excursions } from "@/lib/excursions";
 import { GEO_LABEL, HERO_IMAGE, HERO_IMAGE_ALT, pageMetadata } from "@/lib/site";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Charlottetown Shore Excursions & Port Guide — Prince Edward Island",
+  title: "Charlottetown Shore Excursions — Cavendish, Anne & PEI Port Guide",
   description:
-    "Plan shore excursions from Charlottetown, Prince Edward Island — Anne of Green Gables, red sandstone cliffs, lighthouses, Cavendish beaches, Confederation history, and Canada & New England cruise port guides.",
+    "Charlottetown cruise port planning — Cavendish drive time, Anne of Green Gables, PEI north shore, downtown walking, and Canada & New England shore excursion guides.",
   path: "/",
 });
 

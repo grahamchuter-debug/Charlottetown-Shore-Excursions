@@ -27,9 +27,9 @@ const faqs = [
 ];
 
 export const metadata: Metadata = pageMetadata({
-  title: "Charlottetown Cruise Ship Schedule — Prince Edward Island",
+  title: "Charlottetown Cruise Ship Schedule — Port Timing & Tour Fit",
   description:
-    "Charlottetown, Prince Edward Island cruise ship schedule planning hub — port timing, excursion fit, and how to match tours to your ship's call.",
+    "Charlottetown cruise ship schedule planning — how port hours affect downtown walks vs Cavendish / Green Gables tours. Confirm your call with your cruise line.",
   path,
 });
 

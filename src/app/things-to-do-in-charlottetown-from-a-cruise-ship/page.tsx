@@ -33,9 +33,9 @@ const faqs = [
 ];
 
 export const metadata: Metadata = pageMetadata({
-  title: "Things To Do In Charlottetown From A Cruise Ship",
+  title: "Things to Do in Charlottetown From a Cruise Ship — Port-Day Ideas",
   description:
-    "Things to do in Charlottetown, Prince Edward Island from a cruise ship — downtown walks, Anne of Green Gables, beaches, lighthouses, lobster, and Confederation sites.",
+    "Things to do in Charlottetown from the cruise port — downtown walks, Cavendish / Green Gables day trips, beaches, lighthouses, lobster, and Confederation sites matched to hours ashore.",
   path,
 });
 

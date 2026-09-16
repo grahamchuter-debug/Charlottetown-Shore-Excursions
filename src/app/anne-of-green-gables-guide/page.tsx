@@ -33,9 +33,9 @@ const faqs = [
 ];
 
 export const metadata: Metadata = pageMetadata({
-  title: "Anne of Green Gables Guide — Charlottetown Cruise Passengers",
+  title: "Anne of Green Gables Guide — Green Gables Heritage Place Visitor Tips",
   description:
-    "Anne of Green Gables guide for cruise passengers — Lucy Maud Montgomery, Green Gables Heritage Place, travel time from Charlottetown, photography, families, and tour planning.",
+    "Visitor guide to Green Gables Heritage Place for Charlottetown cruise passengers — Lucy Maud Montgomery, site highlights, families, photography, and how far from the port (~35 km).",
   path,
 });
 

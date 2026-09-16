@@ -33,9 +33,9 @@ const faqs = [
 ];
 
 export const metadata: Metadata = pageMetadata({
-  title: "Walking Charlottetown From The Cruise Port — Map-Style Guide",
+  title: "Walking Charlottetown From Cruise Port — Waterfront & Historic Core",
   description:
-    "Self-guided walking route from Charlottetown cruise port — waterfront, historic centre, Province House, Confederation Centre, shopping, restaurants, and walking times.",
+    "Self-guided walking from Charlottetown cruise port — Peake's Wharf, historic centre, Province House, Confederation sites, shopping, and walking times for short port calls.",
   path,
 });
 

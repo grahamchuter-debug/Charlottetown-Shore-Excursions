@@ -33,9 +33,9 @@ const faqs = [
 ];
 
 export const metadata: Metadata = pageMetadata({
-  title: "Cavendish From Charlottetown — Driving Time & Cruise Planning",
+  title: "How Far Is Cavendish From Charlottetown — Drive Time & Cruise Day",
   description:
-    "How to reach Cavendish and Green Gables from Charlottetown cruise port — driving time, beaches, national park, tour options, and return-to-ship timing.",
+    "How far is Cavendish from Charlottetown cruise port? About 35 km / 40–50 minutes each way — Green Gables, beaches, national park, and realistic cruise-day planning.",
   path,
 });
 
